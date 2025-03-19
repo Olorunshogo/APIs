@@ -1,0 +1,5 @@
+
+[
+    { "id": 1, "name": "Doe Jane", "dob": "1985-08-22", "gender": "Female", "address": "123 Main St" },
+    { "id": 2, "name": "John Doe", "dob": "1990-04-15", "gender": "Male", "address":"321 Sub St" }
+]

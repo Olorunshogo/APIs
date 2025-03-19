@@ -1,0 +1,5 @@
+
+[
+    { "id": 1, "patient_id": 1, "type": "Blood Test", "date": "2025-01-10", "result": "Normal" },
+    { "id": 2, "patient_id": 1, "type": "X-Ray", "date": "2025-03-05", "result": "No Issues" }
+  ]

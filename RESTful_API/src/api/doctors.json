@@ -1,0 +1,6 @@
+
+[
+    { "id": 1, "name": "Dr. Sarah Lee", "specialty": "Cardiology", "location": "City Health Clinic" },
+    { "id": 2, "name": "Dr. Alan White", "specialty": "Pediatrics", "location": "Health City Clinic" },
+    { "id": 3, "name": "Emily Brown", "specialty": "Cardio", "location":"Clinic Health City", "dob": "1979-05-12" }
+]

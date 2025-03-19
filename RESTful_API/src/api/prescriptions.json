@@ -1,0 +1,5 @@
+
+[
+    { "id": 1, "patient_id": 1, "medication": "Aspirin", "dosage": "100mg", "date": "2025-02-15" },
+    { "id": 2, "patient_id": 1, "medication": "Lisinopril", "dosage": "10mg", "date": "2025-03-05" }
+  ]
